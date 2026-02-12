@@ -4,9 +4,21 @@
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://l3on4rd0-rajj.github.io/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3on4rd0-rajj)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=l3on4rd0-rajj&show_icons=true&theme=dracula)
+---
 
-### Tecnologias que utilizo no dia a dia
+### 📊 Estatísticas do GitHub
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l3on4rd0-rajj&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l3on4rd0-rajj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l3on4rd0-rajj&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l3on4rd0-rajj&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=l3on4rd0-rajj&theme=dracula&utcOffset=-3)
+
+---
+
+### 💻 Tecnologias que utilizo no dia a dia
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
