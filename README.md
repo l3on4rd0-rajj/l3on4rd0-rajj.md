@@ -4,7 +4,7 @@
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://l3on4rd0-rajj.github.io/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l3on4rd0-rajj)
 
-![l3on4rd0-rajj GitHub stats](https://github-readme-stats.vercel.app/api?username=l3on4rd0-rajj&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=l3on4rd0-rajj&show_icons=true&theme=dracula)
 
 ### Tecnologias que utilizo no dia a dia
 
