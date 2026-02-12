@@ -18,6 +18,15 @@
 
 ---
 
+## 🔐 DevSecOps & Segurança
+
+![DevSecOps](https://img.shields.io/badge/DevSecOps-0A0A0A?style=for-the-badge&logo=security&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white)
+![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-blue?style=for-the-badge)
+![Fortify](https://img.shields.io/badge/Fortify-AppSec-red?style=for-the-badge)
+
+---
 ### 💻 Tecnologias que utilizo no dia a dia
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
